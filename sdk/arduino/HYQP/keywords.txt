@@ -1,0 +1,30 @@
+# Syntax Coloring Map for HYQP Arduino Library
+
+# Classes (KEYWORD1)
+HYQPClient	KEYWORD1
+HYQPPublisher	KEYWORD1
+HYQPSubscriber	KEYWORD1
+
+# Methods (KEYWORD2)
+connect	KEYWORD2
+disconnect	KEYWORD2
+reconnect	KEYWORD2
+isConnected	KEYWORD2
+createTopic	KEYWORD2
+publish	KEYWORD2
+subscribe	KEYWORD2
+unsubscribe	KEYWORD2
+loop	KEYWORD2
+onMessage	KEYWORD2
+onConnect	KEYWORD2
+onDisconnect	KEYWORD2
+lastResponse	KEYWORD2
+getClientId	KEYWORD2
+getHost	KEYWORD2
+getPort	KEYWORD2
+
+# Constants (LITERAL1)
+HYQP_DEFAULT_PORT	LITERAL1
+HYQP_BUF_SIZE	LITERAL1
+HYQP_MAX_TOPIC_CBS	LITERAL1
+HYQP_RESPONSE_TIMEOUT	LITERAL1
