@@ -24,6 +24,11 @@ docs/
 # Claude Code
 .claude/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
 # OS
 .DS_Store
 Thumbs.db
